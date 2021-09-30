@@ -31,7 +31,6 @@ const MealDetails = () => {
                         border: ' 2px solid orange',
                         boxShadow: '3px 2px 4px 0 black'
                     }} src={strMealThumb} />
-
                     <Card.Body>
                         <Card.Title>{strMeal}</Card.Title>
                         <Card.Text>
